@@ -1,0 +1,6 @@
+[submodule "bookServiceFrontEnd"]
+	path = bookServiceFrontEnd
+	url = https://github.com/rblaha-dunwoody/bookServiceFrontEnd-1.git
+[submodule "ryanSimpleService"]
+	path = ryanSimpleService
+	url = https://github.com/rblaha-dunwoody/simple-book-service-1.git
